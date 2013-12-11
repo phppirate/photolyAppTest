@@ -31,7 +31,7 @@
           </div>
           <br/>
           <div>
-            <input type="submit" class="btn btn-success btn-block">
+            <input type="submit" class="btn btn-success btn-block btn-lg" value="UPLOAD">
           </div>
         </form>
       </div>
