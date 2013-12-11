@@ -29,6 +29,10 @@
             <label for="comment">Add Comment</label>
             <textarea id="comment" class="form-control" rows="10px"></textarea>
           </div>
+          <br/>
+          <div>
+            <input type="submit" class="btn btn-success btn-block">
+          </div>
         </form>
       </div>
       <div class="panel-footer">
